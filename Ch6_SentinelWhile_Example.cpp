@@ -8,7 +8,7 @@ int main()
 	char inChar;
 	ifstream inFile;
 
-	inFile.open("C:/Users/busch/OneDrive - Iowa Central Community College/Classes/FA17/C++/Presentations/Ch6Examples/SentinelInputData.dat");
+	inFile.open("D:/OneDriveNewLoc/OneDrive - Iowa Central Community College/Classes/C++/Presentations/Ch6Examples/SentinelInputData.dat");
 
 	if (!inFile)
 	{
