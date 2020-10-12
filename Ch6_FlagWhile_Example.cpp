@@ -7,8 +7,7 @@ int main()
 	cout << "Calculate Fibonacci sequence to 5 digits.\n";
 
 	bool test = true;
-	int n_1 = 1, n_2 = 1;
-	int n_3;
+	int n_1 = 1, n_2 = 1, n_3;
 
 	cout << n_1 << endl << n_2 << endl;
 
