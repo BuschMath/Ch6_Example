@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
 	ifstream inFile;
-	inFile.open("D:/OneDrive/OneDrive - Iowa Central Community College/Classes/C++/Presentations/Ch6Examples/InputEOFExample.dat");
+	inFile.open("InputEOFExample.dat");
 
 	char data;
 
